@@ -1,1 +1,1 @@
-这个仓库将用来存放我们红外图像增强算法代码，代码将在后续进行更新。
+This repository will be used to store our infrared image enhancement algorithm code, which will be updated in the future.
